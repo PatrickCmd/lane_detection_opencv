@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 opencv-python = "*"
+matplotlib = "==3.5.1"
 
 [requires]
 python_version = "3.9"
